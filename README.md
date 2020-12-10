@@ -34,10 +34,10 @@
 | 49   | 中等 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) |          | ❎        |
 | 84   | 困难 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) |          | ❎        |
 | 155  | 简单 | [最小栈](https://leetcode-cn.com/problems/min-stack/)        |          | ❎        |
+| 202  | 简单 | 快乐数 [题目](https://leetcode-cn.com/problems/happy-number/) [解答](/main/java/leetcode/editor/cn/HappyNumber.java)| |✅|
 | 239  | 困难 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) |          | ❎        |
 | 242  | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) |          | ❎        |
 | 641  | 中等 | [设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) |          | ❎        |
-
 > 实战题目 - Binary Tree
 
 | 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
