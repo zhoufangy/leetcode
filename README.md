@@ -1,4 +1,4 @@
-总计：100   已完成：0   未完成：100
+总计：102   已完成：2   未完成：100
 
 > 实战题目 - Array
 
@@ -22,7 +22,7 @@
 | 141  | 简单 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) |          | ❎        |
 | 142  | 中等 | [环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) |          | ❎        |
 | 206  | 简单 | [反转链表](https://leetcode.com/problems/reverse-linked-list/) |          | ❎        |
-
+| 02.05| 中等 | [链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/)|[SumListsLcci](/src/main/java/leetcode/editor/cn/SumListsLcci.java)|✅x1|
 > 其他实战题目
 
 | 题号 | 难度 | 题目链接                                                     | 答案链接 | 是否完成 |
@@ -34,7 +34,7 @@
 | 49   | 中等 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) |          | ❎        |
 | 84   | 困难 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) |          | ❎        |
 | 155  | 简单 | [最小栈](https://leetcode-cn.com/problems/min-stack/)        |          | ❎        |
-| 202  | 简单 | [快乐数](https://leetcode-cn.com/problems/happy-number/) |[HappyNumber](/src/main/java/leetcode/editor/cn/HappyNumber.java)|✅|
+| 202  | 简单 | [快乐数](https://leetcode-cn.com/problems/happy-number/) |[HappyNumber](/src/main/java/leetcode/editor/cn/HappyNumber.java)|✅x1|
 | 239  | 困难 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) |          | ❎        |
 | 242  | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) |          | ❎        |
 | 641  | 中等 | [设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) |          | ❎        |
@@ -48,6 +48,7 @@
 | 104  | 简单 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) |          | ❎        |
 | 105  | 中等 | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |          | ❎        |
 | 111  | 简单 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) |          | ❎        |
+| 113  | 中等 | [路径总和II](https://leetcode-cn.com/problems/path-sum-ii/)|[PathSumIi](/src/main/java/leetcode/editor/cn/PathSumIi.java)|✅x1|
 | 144  | 中等 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/) |          | ❎        |
 | 226  | 简单 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) |          | ❎        |
 | 230  | 中等 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/comments/) |          | ❎        |
